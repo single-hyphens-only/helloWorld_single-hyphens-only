@@ -1,3 +1,3 @@
 import com.neuronrobotics.bowlerstudio.BowlerKernel
 // Have BowlerStudio speak messages
-BowlerKernel.speak("welcome to kinematic systems")
+BowlerKernel.speak("welcome to bowler studio")
